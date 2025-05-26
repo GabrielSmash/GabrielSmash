@@ -10,7 +10,7 @@
 
 Minha trajetória na tecnologia começou em 2017, quando iniciei meus estudos em programação voltada para eletrônica, com foco em C++. Durante a pandemia em 2020, descobri minha verdadeira paixão pelo desenvolvimento de software e decidi migrar para essa área, me dedicando a aprender novas linguagens e participar de projetos práticos.
 
-Recentemente, participei do bootcamp **Java Cloud Native** promovido pelo **Bradesco em parceria com a DIO**, onde estou consolidando meus conhecimentos em backend e full stack com Java.
+Recentemente, participei do bootcamp **Java Cloud Native** promovido pelo **Bradesco em parceria com a DIO**, onde pude aprimorar meus conhecimentos em backend e full stack com Java.
 
 ---
 
