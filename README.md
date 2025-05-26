@@ -34,7 +34,7 @@ Recentemente, participei do bootcamp **Java Cloud Native** promovido pelo **Brad
 
 ### 🚀 Em busca de oportunidade
 
-Atualmente, busco uma vaga de **estágio na área de tecnologia** para aplicar meus conhecimentos, colaborar em projetos reais e continuar aprendendo com profissionais experientes. Meu foco está em me tornar um **especialista em C#** e crescer na área de desenvolvimento backend e full stack.
+Atualmente, busco uma vaga de **estágio/junior na área de tecnologia** para aplicar meus conhecimentos, colaborar em projetos reais e continuar aprendendo com profissionais experientes. Meu foco está em me tornar um **especialista em C#** e crescer na área de desenvolvimento backend e full stack.
 
 ---
 
