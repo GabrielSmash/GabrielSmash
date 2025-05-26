@@ -48,5 +48,5 @@ Atualmente, busco uma vaga de **estágio/junior na área de tecnologia** para ap
 ---
 
 📫 **Vamos nos conectar?**  
-Você pode me encontrar no [LinkedIn](www.linkedin.com/in/gabriel-oliveira-devjr) ou aqui mesmo pelo GitHub!
+Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/gabriel-oliveira-devjr) ou aqui mesmo pelo GitHub!
 
